@@ -1,0 +1,8 @@
+simula(){
+	a = pasok("Enter a number: ");
+	b = pasok("Enter another number: ");
+
+	answer = (2*(3+a)-(2/b))-2;
+	
+	ipakita("Answer: ", answer);
+}
